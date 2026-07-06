@@ -33,7 +33,7 @@ Face_Blur_Realtime/
 ├── main1.ipynb
 ├── deploy.prototxt
 ├── res10_300x300_ssd_iter_140000_fp16.caffemodel
- README.md
+README.md
 requirements.txt
 ```
 
